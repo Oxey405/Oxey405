@@ -6,6 +6,15 @@
 
 (I like blue btw 📘 🚙 💙 🟦)
 
+## Links 🔗
+🎮 My Itch.io : https://oxey405.itch.io/
+
+📹 My YT (fr/en) https://www.youtube.com/channel/UCPP1UL9q4bJk8h1qwIGJ6ng
+
+🐦My twitter (fr/en) https://twitter.com/oxey405
+
+🕸️My website (fr) https://oxey405.com
+
 ## What I like to do 💖
 👍 I like javascript technologies and I am trying to learn Unity/C++.
 ## I want to learn/do 📚
