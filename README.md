@@ -31,7 +31,7 @@
 
 🐦Twitter `@oxey405`
 
-📫 Email `oxey405@protonmail.com` or `oxey405@gmail.com` if EMERGENCY🚨 
+📫 Email `oxey405@protonmail.com` or `oxey405@gmail.com` (prefer proton)
 <!--
 **Oxey405/Oxey405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
