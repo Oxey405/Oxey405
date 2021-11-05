@@ -17,7 +17,7 @@
 
 ## What I like to do 💖
 👍 I like javascript technologies and I am trying to learn Unity/C++.
-## I want to learn/do 📚
+## what I want to learn/do 📚
 📦My goal is to make a good technology that is reliable.
 
 🎮I also want to make good games using GDevelop or Unity.
