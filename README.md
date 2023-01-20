@@ -2,7 +2,7 @@
 ## About me... ⭐
 🔵My real name is Alexis and I'm a young french developer.
 
-🏗️I make games using (GDevelop)[https://github.com/4ian/GDevelop] and I contribute to it.
+🏗️I make games using [GDevelop](https://github.com/4ian/GDevelop) and I contribute to it.
 
 (I like blue btw 📘 🚙 💙 🟦)
 
