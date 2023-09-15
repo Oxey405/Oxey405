@@ -31,4 +31,4 @@
 
 🐦Twitter `@oxey405`
 
-📫 Email `oxey405@protonmail.com` or `oxey405@gmail.com` (prefer proton)
+📫 Email `hello@oxey405.com` (custom mail server was hard but gratifying !)
