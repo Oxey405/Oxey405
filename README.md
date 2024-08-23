@@ -6,6 +6,8 @@
 
 (I like blue btw 📘 🚙 💙 🟦)
 
+I also make stuff with the 🟨🎣[Playdate](https://play.date) 
+
 ## Links 🔗
 🎮 My Itch.io : https://oxey405.itch.io/
 
